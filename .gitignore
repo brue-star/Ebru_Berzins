@@ -1,0 +1,9 @@
+.DS_Store
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build output
+bin/
