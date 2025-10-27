@@ -2,7 +2,7 @@ package p1;
 
 import java.util.Scanner;
 
-public class p1_main {
+public class P1_main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,6 +11,7 @@ public class p1_main {
 		zeile = s.nextLine();
 		System.out.println(zeile);
 		s.close();
+		System.out.println("Eingabe: " + zeile);
 	}
 
 }
